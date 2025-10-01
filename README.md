@@ -14,7 +14,7 @@ Drivers/ – PY32 HAL drivers and headers
 
 Debugger: J-Link Target MCU: PY32F072
 
-▶️ Getting Started Clone the repository: git clone https://github.com/../PY32F072-project.git Open the project in Keil.
+▶️ Getting Started Clone the repository: git clone (https://github.com/Assemcorp/PY32F072) Open the project in Keil.
 
 Configure required peripherals in app_config.h.
 
