@@ -1,6 +1,3 @@
 [submodule "PY32F072_Keil_Template"]
 	path = PY32F072_Keil_Template
 	url = https://github.com/Assemcorp/PY32F072_Keil_Template.git
-[submodule "PY32F072_Firmware_Examples_V1.0.1/Projects/PY32F072-STK/Applications/USB_Device/USBD_USBFlashDisk/PY32F002B_Flash_R-W"]
-	path = PY32F072_Firmware_Examples_V1.0.1/Projects/PY32F072-STK/Applications/USB_Device/USBD_USBFlashDisk/PY32F002B_Flash_R-W
-	url = https://github.com/Assemcorp/PY32F002B_Flash_R-W.git
